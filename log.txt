@@ -1,0 +1,13 @@
+[2026-11-17 18:32:14] Se creó el directorio: data\txt
+[2026-11-17 18:32:14] Se creó el directorio: data\csv
+[2026-11-17 18:32:14] Se creó el directorio: data\json
+[2026-11-17 18:32:14] Inició el programa.
+[2026-11-17 18:32:17] Se generaron y ordenaron 50 registros exitosamente.
+[2026-11-17 18:32:19] Se exportaron datos a data\txt\pacientes.txt
+[2026-11-17 18:32:19] Se exportaron datos a data\csv\pacientes.csv
+[2026-11-17 18:32:19] Se exportaron datos a data\json\pacientes.json
+[2026-11-17 18:32:59] Se cerró el programa.
+[2026-11-17 18:37:24] Inició el sistema.
+[2026-11-17 18:37:28] Se generaron y ordenaron 50 registros exitosamente.
+[2026-11-17 18:37:31] Se exportaron exitosamente los formatos TXT, CSV y JSON.
+[2026-11-17 18:37:44] Interacción exitosa con MongoDB y exportación de consultas completada.
